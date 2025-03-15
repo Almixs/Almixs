@@ -15,5 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=almixs&show_icons=true&locale=en&layout=compact" alt="almixs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almixs&" alt="almixs" /></p>
 
